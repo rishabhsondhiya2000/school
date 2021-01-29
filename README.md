@@ -1,3 +1,3 @@
 # school
 A  School website ful interactive and responsive 
-live on : sdphssxhool.great-site.net
+live on : sdphsschool.great-site.net
